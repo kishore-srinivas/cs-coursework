@@ -7,11 +7,11 @@ This repo contains coursework from CS classes in high school and college
   - *Displayed with UML artifacts*
 
 ---
-**CIS22C - Data Structures and Algorithms (Fall '19)**
+**[CIS22C](https://github.com/kishore-srinivas/cs-coursework/tree/main/CIS22C) - Data Structures and Algorithms (Fall '19)**
   - Topics: Abstract data types, template functions and classes, singly and doubly linked lists, stacks, queues, recursive strategies, binary trees, binary search trees, AVL trees, priority queues, hash tables, collision resolution, sorting algorithms, graphs
   - *Coded in C++*
 
 ---
-**APCS - AP Computer Science A (2017-18)**
+**[APCS](https://github.com/kishore-srinivas/cs-coursework/tree/main/APCS) - AP Computer Science A (2017-18)**
   - Topics: 
   - *Coded in Java*
