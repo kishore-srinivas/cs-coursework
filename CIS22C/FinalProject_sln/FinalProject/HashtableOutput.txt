@@ -1,0 +1,486 @@
+Zurich
+Country: Switzerland
+Activities: Fraumuenster Church, Bahnhofstrasse, Grossmuenster
+Languages: Swiss
+Climate: Continental
+x: 8 y: 47
+Population density: 11000
+Cost of living index: 128.3
+
+Nairobi
+Country: Kenya
+Activities: Nairobi National Park, Karen Blixen Museum, Nairobi Safari Walk
+Languages: Swahili
+Climate: Dry
+x: 36 y: -1
+Population density: 11000
+Cost of living index: 42.88
+
+Helsinki
+Country: Finland
+Activities: Suomenlinna, The Temppeliaukion Church, Helsinki Cathedral
+Languages: Finnish
+Climate: Polar
+x: 24 y: 60
+Population density: 1187
+Cost of living index: 74.39
+
+Barcelona
+Country: Spain
+Activities: La Sagrada Familia, La Rambla, Gothic Quarter
+Languages: Spanish
+Climate: Temperate 
+x: 2 y: 41
+Population density: 41000
+Cost of living index: 60.12
+
+San Diego
+Country: United States
+Activities: Balboa Park, SeaWorld San Diego, USS Midway Museum
+Languages: English
+Climate: Temperate
+x: -117 y: 32
+Population density: 4003
+Cost of living index: 72.41
+
+Beijing
+Country: China
+Activities: Great Wall of China, Forbidden City, Summer Palace
+Languages: Chinese
+Climate: Temperate
+x: 116 y: 39
+Population density: 1300
+Cost of living index: 45.79
+
+Berlin
+Country: Germany
+Activities: Brandenburg Gate, Reichstag Building, East Side Gallery
+Languages: German
+Climate: Continental
+x: 13 y: 52
+Population density: 10500
+Cost of living index: 66.59
+
+Juneau
+Country: United states
+Activities: Mendenhall Glacier, Tongass National Forest, Mount Roberts Tramway
+Languages: English
+Climate: Polar
+x: -134 y: 58
+Population density: 12
+Cost of living index: 65.2
+
+Miami
+Country: United States
+Activities: Ocean Drive, Miami Seaquarium, Bayside Marketplace
+Languages: English
+Climate: Tropical
+x: -80 y: 25
+Population density: 11136
+Cost of living index: 76.64
+
+Canberra
+Country: Australia
+Activities: Parliament House, Australian War Memorial, Lake Burley Griffin
+Languages: English
+Climate: Temperate
+x: 149 y: -35
+Population density: 446
+Cost of living index: 73.15
+
+Lyon
+Country: France
+Activities: Vieux Lyon, Place Bellecour, La Croix-Rousse
+Languages: French
+Climate: Continental
+x: 4 y: 45
+Population density: 27000
+Cost of living index: 77.25
+
+Seoul
+Country: South Korea
+Activities: Gyeongbokgung Palace, N Seoul Tower, Bukchon Hanok Village
+Languages: Korean
+Climate: Temperate 
+x: 127 y: 37
+Population density: 27000
+Cost of living index: 84.48
+
+Seattle
+Country: United States
+Activities: Space Needle, Pike Place Market, Museum of Pop Culture
+Languages: English
+Climate: Continental
+x: -122 y: 47
+Population density: 7251
+Cost of living index: 86.59
+
+Sydney
+Country: Australia
+Activities: Sydney Opera House, Sydney Harbour Bridge, Bondi Beach
+Languages: English
+Climate: Temperate
+x: 151 y: -33
+Population density: 1100
+Cost of living index: 79.74
+
+New Delhi
+Country: India
+Activities: Red Fort, Qutub Minar, Humayun's Tomb
+Languages: Hindi
+Climate: Tropical
+x: 77 y: 28
+Population density: 16000
+Cost of living index: 28.33
+
+Singapore
+Country: Singapore
+Activities: Marina Bay Sands, Sentosa, Gardens by the bay
+Languages: English
+Climate: Tropical
+x: 103 y: 1
+Population density: 20212
+Cost of living index: 80.23
+
+Cape Town
+Country: South Africa
+Activities: Table Mountain, Cape of Good Hope, Robben Island
+Languages: English
+Climate: Temperate
+x: 18 y: -33
+Population density: 3689
+Cost of living index: 45
+
+Boston
+Country: United States
+Activities: Freedom Trail, Faneuil Hall Marketplace, Boston Common
+Languages: English
+Climate: Temperate
+x: -71 y: 42
+Population density: 13841
+Cost of living index: 86.65
+
+Moscow
+Country: Russia
+Activities: The Moscow Kremlin, Red Square, Lenin's Mausoleum
+Languages: Russian
+Climate: Polar
+x: 37 y: 55
+Population density: 14800
+Cost of living index: 45.96
+
+Santorini
+Country: Greece
+Activities: Imerovigli, Kamari, Oia
+Languages: Greek, English
+Climate: Temperate 
+x: 25 y: 36
+Population density: 440
+Cost of living index: 75.2
+
+Oslo
+Country: Norway
+Activities: The Vigeland Park, Akershus Fortress, Viking Ship Museum
+Languages: Norwegian
+Climate: Polar
+x: 10 y: 59
+Population density: 3900
+Cost of living index: 105.29
+
+Stockholm
+Country: Sweden
+Activities: Stockholm Palace, Skansen, Gamla stan
+Languages: Swedish
+Climate: Polar
+x: 18 y: 59
+Population density: 13000
+Cost of living index: 77.12
+
+Dubai
+Country: United Arab Emirates
+Activities: Burj Khalifa, Dubai Mall, Palm Jumeirah
+Languages: Arabic
+Climate: Dry
+x: 55 y: 25
+Population density: 1976
+Cost of living index: 68.85
+
+Mexico City
+Country: Mexico
+Activities: Bosque de Chapultepec, Frida Kahlo Museum, Palacio de Bellas Artes
+Languages: Spanish
+Climate: Tropical
+x: -99 y: 19
+Population density: 25300
+Cost of living index: 37.15
+
+San Jose
+Country: United States
+Activities: Winchester Mystery House, The Tech Interactive, Children's Discovery Museum
+Languages: English
+Climate: Temperate
+x: -121 y: 37
+Population density: 2230
+Cost of living index: 80.31
+
+Brasilia
+Country: Brazil
+Activities: Planalto Palace, Three Powers Plaza, Itamaraty
+Languages: Portuguese
+Climate: Tropical
+x: -47 y: -15
+Population density: 9434
+Cost of living index: 47.09
+
+Orlando
+Country: United States
+Activities: Walt Disney World Resort, Epcot, Magic Kingdom Park
+Languages: English
+Climate: Tropical
+x: -81 y: 28
+Population density: 2634
+Cost of living index: 69.8
+
+San Juan
+Country: Puerto Rico
+Activities: Viejo San Juan, Castillo San Felipe Del Morro, Parque Isla Verde
+Languages: English
+Climate: Tropical
+x: -66 y: 18
+Population density: 8253
+Cost of living index: 40.3
+
+Copenhagen
+Country: Denmark
+Activities: Tivoli Gardens, Amalienborg, Nyhavn
+Languages: Danish
+Climate: Continental
+x: 12 y: 55
+Population density: 18000
+Cost of living index: 87.06
+
+New York City
+Country: United States
+Activities: Statue of Liberty, Times Square, Central Park
+Languages: English
+Climate: Temperate 
+x: -73 y: 40
+Population density: 26403
+Cost of living index: 100
+
+Rome
+Country: Italy
+Activities: Colosseum, Roman Forum, St. Peter's Basilica 
+Languages: Italian
+Climate: Temperate 
+x: 12 y: 41
+Population density: 5790
+Cost of living index: 71.17
+
+Hong Kong
+Country: China
+Activities: Victoria Peak, Ocean Park, Victoria Harbour
+Languages: Chinese, English
+Climate: Tropical
+x: 114 y: 22
+Population density: 17552
+Cost of living index: 79.21
+
+Nashville
+Country: United states
+Activities: The Parthenon, Grand Ole Opry, Ryman Auditorium
+Languages: English
+Climate: Temperate 
+x: -86 y: 36
+Population density: 1353
+Cost of living index: 67.77
+
+Cairo
+Country: Egypt
+Activities: Pyramids, Egyptian Museum, Cairo Tower
+Languages: Arabic
+Climate: Dry
+x: 31 y: 30
+Population density: 50180
+Cost of living index: 75.2
+
+Shanghai
+Country: China
+Activities: The Bund, Yu Garden, Nanjing Road
+Languages: Chinese
+Climate: Temperate
+x: 121 y: 31
+Population density: 64000
+Cost of living index: 51.07
+
+Johannesburg
+Country: South Africa
+Activities: Apartheid Museum, Gold Reef City, Mandela House
+Languages: English
+Climate: Dry
+x: 28 y: -26
+Population density: 7400
+Cost of living index: 47.37
+
+Paris
+Country: France
+Activities: Eiffel Tower, Louvre Museum, Notre-Dame Cathedral
+Languages: French
+Climate: Continental
+x: 2 y: 48
+Population density: 53000
+Cost of living index: 85.42
+
+Honolulu
+Country: United States
+Activities: Diamond Head, Hanauma Bay, Pearl Harbor National Memorial
+Languages: English
+Climate: Tropical
+x: -157 y: 21
+Population density: 5791
+Cost of living index: 88.84
+
+Cupertino
+Country: United States
+Activities: De Anza College, Apple Park, California History Center
+Languages: English
+Climate: Temperate
+x: -122 y: 37
+Population density: 5361
+Cost of living index: 94
+
+Vienna
+Country: Austria
+Activities: The Hofburg, St. Stephen's Cathedral, Belvedere Palace
+Languages: German
+Climate: Continental
+x: 16 y: 48
+Population density: 14900
+Cost of living index: 68.93
+
+Tokyo
+Country: Japan
+Activities: Tokyo Skytree, Meiji Jingu, Tokyo Tower
+Languages: Japanese
+Climate: Temperate 
+x: 139 y: 35
+Population density: 16440
+Cost of living index: 90.6
+
+Vancouver
+Country: Canada
+Activities: Stanley Park, Gastown, Capilano Suspension Bridge
+Languages: English
+Climate: Continental
+x: -123 y: 49
+Population density: 14226
+Cost of living index: 73.72
+
+Buenos Aires
+Country: Argentina
+Activities: La Boca, Casa Rosada, Recoleta Cemetery
+Languages: Spanish
+Climate: Temperate 
+x: -58 y: -34
+Population density: 34800
+Cost of living index: 39.32
+
+Amsterdam
+Country: Netherlands
+Activities: Van Gogh Museum, Anne Frank House, Rijksmuseum
+Languages: English
+Climate: Continental
+x: 4 y: 52
+Population density: 12710
+Cost of living index: 79.91
+
+Reykjavík
+Country: Iceland
+Activities: Hallgrimskirkja, Perlan, Harpa Concert Hall and Conference Centre
+Languages: Icelandic
+Climate: Polar
+x: -21 y: 64
+Population density: 1169
+Cost of living index: 97.59
+
+Manila
+Country: Philippines
+Activities: Rizal Park, Fort Santiago, San Agustin Church
+Languages: Tagalog
+Climate: Tropical
+x: 120 y: 14
+Population density: 42857
+Cost of living index: 40.17
+
+Los Angeles
+Country: United States
+Activities: Hollywood, Griffith Observatory, The Getty
+Languages: English
+Climate: Temperate 
+x: -118 y: 34
+Population density: 7545
+Cost of living index: 78.99
+
+Madrid
+Country: Spain
+Activities: Plaza Mayor, Royal Palace of Madrid, El Retiro Park
+Languages: Spanish
+Climate: Temperate
+x: -3 y: 40
+Population density: 14000
+Cost of living index: 58.89
+
+Dallas
+Country: United States
+Activities: Dallas Museum of Art, Dallas Arboretum and Botanical Garden, Sixth Floor Museum at Dealey Plaza
+Languages: English
+Climate: Temperate 
+x: -96 y: 32
+Population density: 3876
+Cost of living index: 66.84
+
+London, UK
+Country: United Kingdom
+Activities: Big Ben, Tower of London, Hyde Park
+Languages: English
+Climate: Continental
+x: 0 y: 51
+Population density: 11760
+Cost of living index: 81.5
+
+San Francisco
+Country: United States
+Activities: Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf 
+Languages: English
+Climate: Temperate 
+x: -122 y: 37
+Population density: 18440
+Cost of living index: 89.36
+
+Rio de Janeiro
+Country: Brazil
+Activities: Christ the Redeemer, Sugarloaf Mountain, Copacabana
+Languages: Portuguese
+Climate: Dry
+x: -43 y: -22
+Population density: 13930
+Cost of living index: 47.26
+
+Salt Lake City
+Country: United states
+Activities: Temple Square, Red Butte Garden, Utah State Capitol Building
+Languages: English
+Climate: Temperate 
+x: -111 y: 40
+Population density: 1722
+Cost of living index: 64.13
+
+Toronto
+Country: Canada
+Activities: CN Tower, Royal Ontario Museum, Casa Loma
+Languages: English
+Climate: Continental
+x: -79 y: 43
+Population density: 11226
+Cost of living index: 85.21
+

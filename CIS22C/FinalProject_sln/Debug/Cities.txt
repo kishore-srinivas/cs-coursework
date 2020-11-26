@@ -1,0 +1,54 @@
+New York City	-73	40	26403	100	Temperate 	English	Statue of Liberty, Times Square, Central Park	United States
+Los Angeles	-118	34	7545	78.99	Temperate 	English	Hollywood, Griffith Observatory, The Getty	United States
+London, UK	0	51	11760	81.5	Continental	English	Big Ben, Tower of London, Hyde Park	United Kingdom
+Rome	12	41	5790	71.17	Temperate 	Italian	Colosseum, Roman Forum, St. Peter's Basilica 	Italy
+Paris	2	48	53000	85.42	Continental	French	Eiffel Tower, Louvre Museum, Notre-Dame Cathedral	France
+Hong Kong	114	22	17552	79.21	Tropical	Chinese, English	Victoria Peak, Ocean Park, Victoria Harbour	China
+New Delhi	77	28	16000	28.33	Tropical	Hindi	Red Fort, Qutub Minar, Humayun's Tomb	India
+Barcelona	2	41	41000	60.12	Temperate 	Spanish	La Sagrada Familia, La Rambla, Gothic Quarter	Spain
+Santorini	25	36	440	75.2	Temperate 	Greek, English	Imerovigli, Kamari, Oia	Greece
+Seattle	-122	47	7251	86.59	Continental	English	Space Needle, Pike Place Market, Museum of Pop Culture	United States
+Singapore	103	1	20212	80.23	Tropical	English	Marina Bay Sands, Sentosa, Gardens by the bay	Singapore
+Tokyo	139	35	16440	90.6	Temperate 	Japanese	Tokyo Skytree, Meiji Jingu, Tokyo Tower	Japan
+Dallas	-96	32	3876	66.84	Temperate 	English	Dallas Museum of Art, Dallas Arboretum and Botanical Garden, Sixth Floor Museum at Dealey Plaza	United States
+Miami	-80	25	11136	76.64	Tropical	English	Ocean Drive, Miami Seaquarium, Bayside Marketplace	United States
+Orlando	-81	28	2634	69.8	Tropical	English	Walt Disney World Resort, Epcot, Magic Kingdom Park	United States
+Toronto	-79	43	11226	85.21	Continental	English	CN Tower, Royal Ontario Museum, Casa Loma	Canada
+Vancouver	-123	49	14226	73.72	Continental	English	Stanley Park, Gastown, Capilano Suspension Bridge	Canada
+Honolulu	-157	21	5791	88.84	Tropical	English	Diamond Head, Hanauma Bay, Pearl Harbor National Memorial	United States
+San Francisco	-122	37	18440	89.36	Temperate 	English	Golden Gate Bridge, Alcatraz Island, Fisherman's Wharf 	United States
+Berlin	13	52	10500	66.59	Continental	German	Brandenburg Gate, Reichstag Building, East Side Gallery	Germany
+Zurich	8	47	11000	128.3	Continental	Swiss	Fraumuenster Church, Bahnhofstrasse, Grossmuenster	Switzerland
+Moscow	37	55	14800	45.96	Polar	Russian	The Moscow Kremlin, Red Square, Lenin's Mausoleum	Russia
+San Jose	-121	37	2230	80.31	Temperate	English	Winchester Mystery House, The Tech Interactive, Children's Discovery Museum	United States
+Boston	-71	42	13841	86.65	Temperate	English	Freedom Trail, Faneuil Hall Marketplace, Boston Common	United States
+Sydney	151	-33	1100	79.74	Temperate	English	Sydney Opera House, Sydney Harbour Bridge, Bondi Beach	Australia
+Dubai	55	25	1976	68.85	Dry	Arabic	Burj Khalifa, Dubai Mall, Palm Jumeirah	United Arab Emirates
+Amsterdam	4	52	12710	79.91	Continental	English	Van Gogh Museum, Anne Frank House, Rijksmuseum	Netherlands
+Rio de Janeiro	-43	-22	13930	47.26	Dry	Portuguese	Christ the Redeemer, Sugarloaf Mountain, Copacabana	Brazil
+Vienna	16	48	14900	68.93	Continental	German	The Hofburg, St. Stephen's Cathedral, Belvedere Palace	Austria
+San Diego	-117	32	4003	72.41	Temperate	English	Balboa Park, SeaWorld San Diego, USS Midway Museum	United States
+Shanghai	121	31	64000	51.07	Temperate	Chinese	The Bund, Yu Garden, Nanjing Road	China
+Mexico City	-99	19	25300	37.15	Tropical	Spanish	Bosque de Chapultepec, Frida Kahlo Museum, Palacio de Bellas Artes	Mexico
+San Juan	-66	18	8253	40.3	Tropical	English	Viejo San Juan, Castillo San Felipe Del Morro, Parque Isla Verde	Puerto Rico
+Brasilia	-47	-15	9434	47.09	Tropical	Portuguese	Planalto Palace, Three Powers Plaza, Itamaraty	Brazil
+Stockholm	18	59	13000	77.12	Polar	Swedish	Stockholm Palace, Skansen, Gamla stan	Sweden
+Oslo	10	59	3900	105.29	Polar	Norwegian	The Vigeland Park, Akershus Fortress, Viking Ship Museum	Norway
+Madrid	-3	40	14000	58.89	Temperate	Spanish	Plaza Mayor, Royal Palace of Madrid, El Retiro Park	Spain
+Beijing	116	39	1300	45.79	Temperate	Chinese	Great Wall of China, Forbidden City, Summer Palace	China
+Copenhagen	12	55	18000	87.06	Continental	Danish	Tivoli Gardens, Amalienborg, Nyhavn	Denmark
+Manila	120	14	42857	40.17	Tropical	Tagalog	Rizal Park, Fort Santiago, San Agustin Church	Philippines
+Helsinki	24	60	1187	74.39	Polar	Finnish	Suomenlinna, The Temppeliaukion Church, Helsinki Cathedral	Finland
+Canberra	149	-35	446	73.15	Temperate	English	Parliament House, Australian War Memorial, Lake Burley Griffin	Australia
+Cape Town	18	-33	3689	45	Temperate	English	Table Mountain, Cape of Good Hope, Robben Island	South Africa
+Johannesburg	28	-26	7400	47.37	Dry	English	Apartheid Museum, Gold Reef City, Mandela House	South Africa
+Lyon	4	45	27000	77.25	Continental	French	Vieux Lyon, Place Bellecour, La Croix-Rousse	France
+Nairobi	36	-1	11000	42.88	Dry	Swahili	Nairobi National Park, Karen Blixen Museum, Nairobi Safari Walk	Kenya
+Cairo	31	30	50180	75.2	Dry	Arabic	Pyramids, Egyptian Museum, Cairo Tower	Egypt
+Seoul	127	37	27000	84.48	Temperate 	Korean	Gyeongbokgung Palace, N Seoul Tower, Bukchon Hanok Village	South Korea
+Buenos Aires	-58	-34	34800	39.32	Temperate 	Spanish	La Boca, Casa Rosada, Recoleta Cemetery	Argentina
+Salt Lake City	-111	40	1722	64.13	Temperate 	English	Temple Square, Red Butte Garden, Utah State Capitol Building	United states
+Nashville	-86	36	1353	67.77	Temperate 	English	The Parthenon, Grand Ole Opry, Ryman Auditorium	United states
+Reykjavík	-21	64	1169	97.59	Polar	Icelandic	Hallgrimskirkja, Perlan, Harpa Concert Hall and Conference Centre	Iceland
+Juneau	-134	58	12	65.2	Polar	English	Mendenhall Glacier, Tongass National Forest, Mount Roberts Tramway	United states
+Cupertino	-122	37	5361	94	Temperate	English	De Anza College, Apple Park, California History Center	United States

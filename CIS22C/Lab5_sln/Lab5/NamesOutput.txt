@@ -1,0 +1,67 @@
+--- Names preorder ---
+Angelo Schultz	2012-01-15
+Cheryl Franklin	2014-05-24
+Ann Newton	1987-02-13
+Ben Cross	1994-06-23
+Boyd Reynolds	1952-09-01
+Jessie Turner	2007-05-13
+Elijah Doyle	1969-10-06
+Dennis Gomez	2017-02-03
+Hugh Hamilton	1971-12-26
+Erica Willis	1955-07-18
+Nora Keller	1981-11-08
+Karl Gill	1994-11-23
+John Mccarthy	1964-08-24
+Timmy Allison	2017-12-03
+Terrell Pena	1984-07-15
+Robert Ryan	1986-11-09
+Pearl Curry	1963-03-23
+Stella Pittman	1964-02-07
+Victoria Wilson	1991-07-30
+Tom Guzman	2009-12-08
+
+--- Names inorder ---
+Angelo Schultz	2012-01-15
+Ann Newton	1987-02-13
+Ben Cross	1994-06-23
+Boyd Reynolds	1952-09-01
+Cheryl Franklin	2014-05-24
+Dennis Gomez	2017-02-03
+Elijah Doyle	1969-10-06
+Erica Willis	1955-07-18
+Hugh Hamilton	1971-12-26
+Jessie Turner	2007-05-13
+John Mccarthy	1964-08-24
+Karl Gill	1994-11-23
+Nora Keller	1981-11-08
+Pearl Curry	1963-03-23
+Robert Ryan	1986-11-09
+Stella Pittman	1964-02-07
+Terrell Pena	1984-07-15
+Timmy Allison	2017-12-03
+Tom Guzman	2009-12-08
+Victoria Wilson	1991-07-30
+
+--- Names postorder ---
+Boyd Reynolds	1952-09-01
+Ben Cross	1994-06-23
+Ann Newton	1987-02-13
+Dennis Gomez	2017-02-03
+Erica Willis	1955-07-18
+Hugh Hamilton	1971-12-26
+Elijah Doyle	1969-10-06
+John Mccarthy	1964-08-24
+Karl Gill	1994-11-23
+Pearl Curry	1963-03-23
+Stella Pittman	1964-02-07
+Robert Ryan	1986-11-09
+Terrell Pena	1984-07-15
+Tom Guzman	2009-12-08
+Victoria Wilson	1991-07-30
+Timmy Allison	2017-12-03
+Nora Keller	1981-11-08
+Jessie Turner	2007-05-13
+Cheryl Franklin	2014-05-24
+Angelo Schultz	2012-01-15
+
+

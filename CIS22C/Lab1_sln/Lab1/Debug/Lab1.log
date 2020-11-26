@@ -1,0 +1,6 @@
+﻿  Currency.cpp
+  Wallet.cpp
+  main.cpp
+  Generating Code...
+C:\Users\kisho\Documents\Fall '19\CIS22C\CIS22C\Lab1_sln\Lab1\Currency.cpp(23,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab1.vcxproj -> C:\Users\kisho\Documents\Fall '19\CIS22C\CIS22C\Lab1_sln\Debug\Lab1.exe

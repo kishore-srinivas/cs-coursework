@@ -1,0 +1,66 @@
+--- Birthdays preorder ---
+Angelo Schultz	2012-01-15
+Jessie Turner	2007-05-13
+Nora Keller	1981-11-08
+John Mccarthy	1964-08-24
+Erica Willis	1955-07-18
+Boyd Reynolds	1952-09-01
+Stella Pittman	1964-02-07
+Pearl Curry	1963-03-23
+Elijah Doyle	1969-10-06
+Hugh Hamilton	1971-12-26
+Karl Gill	1994-11-23
+Terrell Pena	1984-07-15
+Victoria Wilson	1991-07-30
+Ann Newton	1987-02-13
+Robert Ryan	1986-11-09
+Ben Cross	1994-06-23
+Tom Guzman	2009-12-08
+Cheryl Franklin	2014-05-24
+Timmy Allison	2017-12-03
+Dennis Gomez	2017-02-03
+
+--- Birthdays inorder ---
+Boyd Reynolds	1952-09-01
+Erica Willis	1955-07-18
+Pearl Curry	1963-03-23
+Stella Pittman	1964-02-07
+John Mccarthy	1964-08-24
+Elijah Doyle	1969-10-06
+Hugh Hamilton	1971-12-26
+Nora Keller	1981-11-08
+Terrell Pena	1984-07-15
+Robert Ryan	1986-11-09
+Ann Newton	1987-02-13
+Victoria Wilson	1991-07-30
+Ben Cross	1994-06-23
+Karl Gill	1994-11-23
+Jessie Turner	2007-05-13
+Tom Guzman	2009-12-08
+Angelo Schultz	2012-01-15
+Cheryl Franklin	2014-05-24
+Dennis Gomez	2017-02-03
+Timmy Allison	2017-12-03
+
+--- Birthdays postorder ---
+Boyd Reynolds	1952-09-01
+Pearl Curry	1963-03-23
+Stella Pittman	1964-02-07
+Erica Willis	1955-07-18
+Hugh Hamilton	1971-12-26
+Elijah Doyle	1969-10-06
+John Mccarthy	1964-08-24
+Robert Ryan	1986-11-09
+Ann Newton	1987-02-13
+Ben Cross	1994-06-23
+Victoria Wilson	1991-07-30
+Terrell Pena	1984-07-15
+Karl Gill	1994-11-23
+Nora Keller	1981-11-08
+Tom Guzman	2009-12-08
+Jessie Turner	2007-05-13
+Dennis Gomez	2017-02-03
+Timmy Allison	2017-12-03
+Cheryl Franklin	2014-05-24
+Angelo Schultz	2012-01-15
+
