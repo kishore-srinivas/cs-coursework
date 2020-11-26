@@ -1,2 +1,2 @@
 # cs-coursework
-Repo for all coursework from all CS classes in college
+Repo for coursework from CS classes in college
