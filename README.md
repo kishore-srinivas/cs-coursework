@@ -3,7 +3,7 @@ This repo contains coursework from CS classes in high school and college
 
 ---
 :hammer: **CIS31 - Operating Systems Concepts (Winter '21)**
-- Topics:
+- Topics: *I have yet to take this class*
 
 ---
 :mag: **[CIS28](https://github.com/kishore-srinivas/cs-coursework/tree/main/CIS28) - Object Oriented Analysis and Design (Fall '20)**
