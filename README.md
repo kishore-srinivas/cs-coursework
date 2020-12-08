@@ -2,6 +2,10 @@
 This repo contains coursework from CS classes in high school and college
 
 ---
+:hammer: **CIS31 - Operating Systems Concepts (Winter '21)**
+- Topics:
+
+---
 :mag: **[CIS28](https://github.com/kishore-srinivas/cs-coursework/tree/main/CIS28) - Object Oriented Analysis and Design (Fall '20)**
 - Topics: Encapsulation, abstraction, inheritance, class attribute lists, conceptual class diagrams, junction classes, event state diagrams, object relationships (has/uses/is), class responsibilities and collaborations, sequence flows
 - *Displayed with UML artifacts*
